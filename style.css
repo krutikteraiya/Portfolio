@@ -672,9 +672,7 @@ span {
         background: var(--bg-color);
     }
 
-    /*#menu-icon {
-        display: block;
-    }*/
+   
 
     .navbar {
         position: absolute;
@@ -686,9 +684,5 @@ span {
         box-shadow: 0.5rem 1rem rgba(0, 0, 0, .2);
     }
 
-    /*.navbar a {
-        display: block;
-        font-size: 2rem;
-        margin: 3rem 0;
-    }*/
+  
 }
